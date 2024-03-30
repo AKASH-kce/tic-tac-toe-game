@@ -44,4 +44,4 @@ This project was created by [AKASH]. Feel free to contribute by forking the repo
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](https://opensource.org/license/mit).
